@@ -1,0 +1,4 @@
+System Architecture 
+https://www.figma.com/board/JKjeRQ9mwWwlg5qinBfdHj/Fixflow?node-id=0-1&t=Em4g2JAI9OXibjAc-1
+ERD 
+https://www.figma.com/board/dq4wDO8uc5pZj7IEe2z6vN/fixflow?node-id=0-1&t=ZQ0Et0rDAYmEALbN-1
